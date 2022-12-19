@@ -1,0 +1,5 @@
+This folder contains , all sorting algos in JavaScript to get better understanding of topic .
+
+1. Bubble sort 
+2. Merge sort
+3. Quick Sort 
