@@ -2,9 +2,9 @@ if(true)
 {
     var a="Hello this is var "
 }
-console.log(a);
+console.log(a,"");
 
- O/p- Hello this is var
+ 
 
 if(true)
 {
@@ -13,5 +13,5 @@ if(true)
 
 console.log(b); 
 
-//O/p -  
+
 
