@@ -1,0 +1,20 @@
+If anyone , asks to tell js in three words , which defines about it's nature --->
+
+
+"JavaScript" is a "Synchronous Single Threaded Language" (S.S.T- Student Sleeping Time)
+
+
+📌 Basic details about "JavaScript" ----->
+Born-1995
+Father-Brendan Eich
+Fact-prepared under 10 days
+Known for - Web scripting Language , but can be used to make apps(eg. in React Native we use js),
+we use in smart devices also.
+
+👉
+
+
+📌
+
+
+

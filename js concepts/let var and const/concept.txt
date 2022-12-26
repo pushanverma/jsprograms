@@ -1,0 +1,15 @@
+Earlier , we use to have only one variable i.e var , which was "function Scoped", but it was showing 
+problems ,
+Same var can be accessed anywhere throughout the program , 
+
+
+So , let and const is created which are "Block Scoped"
+
+
+
+Diffrence b/w Function and block Scoped ?
+
+Function Scope , variable whose scope is limited to a function and Block scoped means , whose scope
+is limited to a block i.e Block can be -> if block, for loop
+
+
