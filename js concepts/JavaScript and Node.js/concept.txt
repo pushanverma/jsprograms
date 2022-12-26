@@ -1,20 +1,32 @@
 If anyone , asks to tell js in three words , which defines about it's nature --->
 
 
-"JavaScript" is a "Synchronous Single Threaded Language" (S.S.T- Student Sleeping Time)
+👉"JavaScript" is a "Synchronous Single Threaded Language" (S.S.T- Student Sleeping Time)
+
 
 
 📌 Basic details about "JavaScript" ----->
 Born-1995
 Father-Brendan Eich
-Fact-prepared under 10 days
+Fact-prepared under 10 days, at NetScape
 Known for - Web scripting Language , but can be used to make apps(eg. in React Native we use js),
 we use in smart devices also.
+Originally Known as - ECMA Script (it was brought under ECMA Standard group in 1996, to create
+a standard,which everyone could follow)
 
-👉
+📌 Releases :->
+ES1-1997
+ES2-1998
+ES3-1999
+Ajax,Prototype,Jquery,Dojo,
+ES5-2009
+(Nodejs released, with npm)
+ES6-2015
+(Become the most stable version of ES and used widely uptill now)
 
 
-📌
+
+
 
 
 
