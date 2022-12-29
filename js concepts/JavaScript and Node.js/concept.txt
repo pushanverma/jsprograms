@@ -25,6 +25,37 @@ ES6-2015
 (Become the most stable version of ES and used widely uptill now)
 
 
+🖊️ What do you mean by Synchronous and Asynchronous ?
+
+"Synchronous" means happens at same time , following a particular order 
+"ASynchronous" means happens at diffrent time , doesnot follow a particular order , priority is being 
+set .
+
+
+🖊️ What do you mean by Single Threaded  and Multi Threaded Programming language ?
+
+A programming language , where one process occurs at a particular time , is called 
+"Single Threaded Language"
+        |
+        |
+        |
+        |
+        |
+        +
+        |
+        |
+        +
+        |
+        |
+and a programming language , where multiple process occurs at a particular time , 
+is called "Multi Threaded Language"
+                            |
+                        |       |
+                    |       |       |
+                |           |           |
+                +           +           +
+
+
 
 
 
