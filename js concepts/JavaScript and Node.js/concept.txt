@@ -4,7 +4,6 @@ If anyone , asks to tell js in three words , which defines about it's nature ---
 👉"JavaScript" is a "Synchronous Single Threaded Language" (S.S.T- Student Sleeping Time)
 
 
-
 📌 Basic details about "JavaScript" ----->
 Born-1995
 Father-Brendan Eich
