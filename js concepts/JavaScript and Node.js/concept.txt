@@ -59,7 +59,7 @@ is called "Multi Threaded Language"
 Most pepople , can solve questions related to javascript , but can't answer this simple question.
 Most people end up answering that node.js is javascript , But they are partially wrong.
 Let me explain with a analogy,
-JavaScript is a programming language and Node.js provides a environment for javascript to run , 
+JavaScript is a programming language and Node.js provides a environment for javascript to run(i.e it has all the things , which is required to execute a js program) , 
 just like Office provides environment for employees to work (Node.js provides environment for javascript to run) 
 
 
