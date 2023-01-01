@@ -54,6 +54,14 @@ is called "Multi Threaded Language"
                 |           |           |
                 +           +           +
 
+📌 What is the diffrence b/w JavaScript and Node.js ?
+
+Most pepople , can solve questions related to javascript , but can't answer this simple question.
+Most people end up answering that node.js is javascript , But they are partially wrong.
+Let me explain with a analogy,
+JavaScript is a programming language and Node.js provides a environment for javascript to run , 
+just like Office provides environment for employees to work (Node.js provides environment for javascript to run) 
+
 
 
 
