@@ -1,3 +1,5 @@
+//📌 Lokking the diffrence b/w calling and printing variables and functions
+
 
 console.log(a) 
 console.log(getName,"...printing fn--before")

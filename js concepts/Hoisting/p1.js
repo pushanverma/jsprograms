@@ -1,4 +1,4 @@
-// When we are accessing variable and function after they are declared.
+//📌 When we are accessing variable and function after they are declared.
 
 var a=7;
 

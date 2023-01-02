@@ -1,3 +1,5 @@
+//📌 Looking how arrow functions and normal functions react , when called before and after declarartion 
+
 
 console.log(a) 
 console.log(getName,"...printing fn--before")

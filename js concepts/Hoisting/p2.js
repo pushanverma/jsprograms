@@ -1,4 +1,4 @@
-// When we are accessing variable and function before they are declared.
+//📌 When we are accessing variable and function before they are declared.
 
 console.log(a)
 console.log(getName)

@@ -1,4 +1,4 @@
-// Explaining diffrence b/w undefined and not-defined
+//📌 Explaining diffrence b/w undefined and not-defined
 
 console.log(a)
 console.log(getName)
